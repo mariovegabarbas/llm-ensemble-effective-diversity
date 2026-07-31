@@ -65,7 +65,7 @@ src/                  analysis code
   paths.py              every path, derived from the repository root
 data/                 published data, schema in data/SCHEMA.md
   indices/              per-run indices, per-model dissent, exclusions, strata, panel
-  formulations/         the 7,200 formulations obtained, as JSONL
+  formulations/         7,200 records as JSONL: 7,160 formulations obtained, 7,082 analysed
 docs/                 validity criteria, deviations, field mapping
 figures/              figure generator and its output
 ```

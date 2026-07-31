@@ -20,6 +20,7 @@ authors:
     affiliation: "Department of Clinical Science, Intervention and Technology, Karolinska Institutet, Huddinge, Sweden"
 license: Apache-2.0
 license-url: "https://www.apache.org/licenses/LICENSE-2.0"
+doi: "10.5281/zenodo.21718657"
 keywords:
   - large language models
   - ensemble diversity
@@ -27,13 +28,21 @@ keywords:
   - psychotherapy case formulation
   - effective number of voices
 abstract: >-
-  Analysis code and data for a study of the effective diversity of a
-  sixteen-model language model ensemble on psychotherapeutic case formulation.
-  The effective number of voices is the Vendi Score, computed with the reference
-  implementation rather than reimplemented; the per-voice dissent contribution is
-  original to the study. Includes the per-run indices, the per-model dissent
-  contributions and the 7,200 formulations obtained. The vignette bank is held in
-  a separate restricted deposit.
+  Analysis code and data for a study of the semantic dispersion of a
+  sixteen-model language model ensemble on psychotherapeutic case formulation, a
+  task for which no correctness criterion is available. The effective number of
+  voices is the Vendi Score, computed with the reference implementation rather
+  than reimplemented; the per-voice dissent contribution is original to the
+  study, and decomposes the ensemble's mean pairwise dissent rather than the
+  spectral index. Includes the per-run indices, the per-model dissent
+  contributions and the formulations produced by the panel: 7,200 model-run
+  cells planned, 7,160 formulations obtained, and 7,082 analysed after the
+  validity filter. The released JSONL carries all 7,200 records, each with the
+  status that places it in one of the three counts. Dual-licensed: Apache
+  License 2.0 for the analysis code (src/, figures/) and Creative Commons
+  Attribution 4.0 for the published data and documentation (data/, docs/); see
+  LICENSE and LICENSE-DATA in the repository. The vignette bank is not included
+  and is held in a separate restricted deposit, doi 10.5281/zenodo.21708455.
 references:
   - type: article
     title: "The Vendi Score: A Diversity Evaluation Metric for Machine Learning"

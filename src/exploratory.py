@@ -1,4 +1,11 @@
-"""Exploratory analyses, registered in advance as exploratory and reported descriptively.
+"""The four analyses registered in advance as exploratory, reported descriptively.
+
+Two further analyses in the manuscript are post-hoc rather than registered and
+live in their own modules: the declared-framework analysis in
+``framework_analysis.py`` and the openness-stratum analysis in
+``openness_analysis.py``. The single-model self-consistency baseline is likewise
+post-hoc; it needs the embeddings, which are not published, so it is not
+reproducible from ``data/`` alone.
 
 Four analyses, none of which carries a registered directional prediction:
 
