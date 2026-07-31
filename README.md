@@ -41,12 +41,11 @@ implementation computes over all `n²` entries.
 ## Preregistration
 
 The hypothesis, the measure, the panel composition and the analysis plan were
-registered publicly before any data were generated:
+registered before any data were generated:
 
 **<https://osf.io/c5qk7>**
 
-> The registration is under embargo until **September 2027** and will not resolve
-> publicly before that date.
+> The registration was sealed on **21 July 2026**. The link above points to it.
 
 `docs/deviations_from_preregistration.md` records the departures adopted before
 any data were generated, and the reconciliation of the manuscript title with the
@@ -84,6 +83,7 @@ python3 src/confirmatory.py          # H1; the full permutation test takes a whi
 python3 src/exploratory.py           # RQ2-RQ5
 python3 src/framework_analysis.py    # post-hoc, declared framework
 python3 src/openness_analysis.py     # post-hoc, openness stratum
+python3 src/length_analysis.py       # post-hoc, formulation length
 python3 figures/make_figures.py      # after exploratory.py
 ```
 
