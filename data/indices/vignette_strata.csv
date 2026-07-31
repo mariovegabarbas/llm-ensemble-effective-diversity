@@ -1,0 +1,16 @@
+vignette_id,clinical_picture,openness_stratum
+BANCO-001,depression,shared_frame_ineffective
+BANCO-002,depression,shared_frame_effective
+BANCO-003,depression,genuinely_distinct
+BANCO-004,depression,shared_frame_ineffective
+BANCO-005,trauma,genuinely_distinct
+BANCO-006,trauma,shared_frame_ineffective
+BANCO-007,trauma,shared_frame_effective
+BANCO-008,trauma,genuinely_distinct
+BANCO-009,substance_abuse,genuinely_distinct
+BANCO-010,substance_abuse,shared_frame_ineffective
+BANCO-011,substance_abuse,genuinely_distinct
+BANCO-012,relational_conflict,genuinely_distinct
+BANCO-013,relational_conflict,shared_frame_ineffective
+BANCO-014,relational_conflict,genuinely_distinct
+BANCO-015,relational_conflict,shared_frame_ineffective

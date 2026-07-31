@@ -1,0 +1,2935 @@
+{
+ "BANCO-001/1": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-001/10": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-001/11": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-001/12": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-001/13": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-001/14": {
+  "absent": [],
+  "degenerate": [
+   "google/gemini-2.5-flash"
+  ],
+  "n_present": 16,
+  "n_valid": 15
+ },
+ "BANCO-001/15": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-001/16": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-001/17": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-001/18": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-001/19": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-001/2": {
+  "absent": [],
+  "degenerate": [
+   "google/gemini-2.5-flash"
+  ],
+  "n_present": 16,
+  "n_valid": 15
+ },
+ "BANCO-001/20": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-001/21": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-001/22": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-001/23": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-001/24": {
+  "absent": [],
+  "degenerate": [
+   "google/gemma-4-31b-it"
+  ],
+  "n_present": 16,
+  "n_valid": 15
+ },
+ "BANCO-001/25": {
+  "absent": [],
+  "degenerate": [
+   "google/gemini-2.5-flash"
+  ],
+  "n_present": 16,
+  "n_valid": 15
+ },
+ "BANCO-001/26": {
+  "absent": [],
+  "degenerate": [
+   "google/gemini-2.5-flash"
+  ],
+  "n_present": 16,
+  "n_valid": 15
+ },
+ "BANCO-001/27": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-001/28": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-001/29": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-001/3": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-001/30": {
+  "absent": [],
+  "degenerate": [
+   "deepseek/deepseek-v4-flash"
+  ],
+  "n_present": 16,
+  "n_valid": 15
+ },
+ "BANCO-001/4": {
+  "absent": [],
+  "degenerate": [
+   "deepseek/deepseek-v4-flash"
+  ],
+  "n_present": 16,
+  "n_valid": 15
+ },
+ "BANCO-001/5": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-001/6": {
+  "absent": [],
+  "degenerate": [
+   "google/gemini-2.5-flash"
+  ],
+  "n_present": 16,
+  "n_valid": 15
+ },
+ "BANCO-001/7": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-001/8": {
+  "absent": [],
+  "degenerate": [
+   "google/gemini-2.5-flash"
+  ],
+  "n_present": 16,
+  "n_valid": 15
+ },
+ "BANCO-001/9": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-002/1": {
+  "absent": [],
+  "degenerate": [
+   "google/gemini-2.5-flash"
+  ],
+  "n_present": 16,
+  "n_valid": 15
+ },
+ "BANCO-002/10": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-002/11": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-002/12": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-002/13": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-002/14": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-002/15": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-002/16": {
+  "absent": [],
+  "degenerate": [
+   "google/gemini-2.5-flash"
+  ],
+  "n_present": 16,
+  "n_valid": 15
+ },
+ "BANCO-002/17": {
+  "absent": [],
+  "degenerate": [
+   "google/gemini-2.5-flash"
+  ],
+  "n_present": 16,
+  "n_valid": 15
+ },
+ "BANCO-002/18": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-002/19": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-002/2": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-002/20": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-002/21": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-002/22": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-002/23": {
+  "absent": [],
+  "degenerate": [
+   "google/gemini-2.5-flash",
+   "deepseek/deepseek-v4-flash"
+  ],
+  "n_present": 16,
+  "n_valid": 14
+ },
+ "BANCO-002/24": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-002/25": {
+  "absent": [],
+  "degenerate": [
+   "google/gemini-2.5-flash"
+  ],
+  "n_present": 16,
+  "n_valid": 15
+ },
+ "BANCO-002/26": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-002/27": {
+  "absent": [],
+  "degenerate": [
+   "google/gemini-2.5-flash"
+  ],
+  "n_present": 16,
+  "n_valid": 15
+ },
+ "BANCO-002/28": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-002/29": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-002/3": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-002/30": {
+  "absent": [],
+  "degenerate": [
+   "minimax/minimax-m3"
+  ],
+  "n_present": 16,
+  "n_valid": 15
+ },
+ "BANCO-002/4": {
+  "absent": [],
+  "degenerate": [
+   "google/gemma-4-31b-it"
+  ],
+  "n_present": 16,
+  "n_valid": 15
+ },
+ "BANCO-002/5": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-002/6": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-002/7": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-002/8": {
+  "absent": [],
+  "degenerate": [
+   "google/gemini-2.5-flash"
+  ],
+  "n_present": 16,
+  "n_valid": 15
+ },
+ "BANCO-002/9": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-003/1": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-003/10": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-003/11": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-003/12": {
+  "absent": [
+   "minimax/minimax-m3"
+  ],
+  "degenerate": [],
+  "n_present": 15,
+  "n_valid": 15
+ },
+ "BANCO-003/13": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-003/14": {
+  "absent": [
+   "minimax/minimax-m3"
+  ],
+  "degenerate": [],
+  "n_present": 15,
+  "n_valid": 15
+ },
+ "BANCO-003/15": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-003/16": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-003/17": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-003/18": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-003/19": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-003/2": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-003/20": {
+  "absent": [
+   "minimax/minimax-m3"
+  ],
+  "degenerate": [],
+  "n_present": 15,
+  "n_valid": 15
+ },
+ "BANCO-003/21": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-003/22": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-003/23": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-003/24": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-003/25": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-003/26": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-003/27": {
+  "absent": [
+   "minimax/minimax-m3"
+  ],
+  "degenerate": [],
+  "n_present": 15,
+  "n_valid": 15
+ },
+ "BANCO-003/28": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-003/29": {
+  "absent": [
+   "minimax/minimax-m3"
+  ],
+  "degenerate": [],
+  "n_present": 15,
+  "n_valid": 15
+ },
+ "BANCO-003/3": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-003/30": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-003/4": {
+  "absent": [
+   "minimax/minimax-m3"
+  ],
+  "degenerate": [],
+  "n_present": 15,
+  "n_valid": 15
+ },
+ "BANCO-003/5": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-003/6": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-003/7": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-003/8": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-003/9": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-004/1": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-004/10": {
+  "absent": [],
+  "degenerate": [
+   "meta-llama/llama-3.3-70b-instruct"
+  ],
+  "n_present": 16,
+  "n_valid": 15
+ },
+ "BANCO-004/11": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-004/12": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-004/13": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-004/14": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-004/15": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-004/16": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-004/17": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-004/18": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-004/19": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-004/2": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-004/20": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-004/21": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-004/22": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-004/23": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-004/24": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-004/25": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-004/26": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-004/27": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-004/28": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-004/29": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-004/3": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-004/30": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-004/4": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-004/5": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-004/6": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-004/7": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-004/8": {
+  "absent": [],
+  "degenerate": [
+   "meta-llama/llama-3.3-70b-instruct"
+  ],
+  "n_present": 16,
+  "n_valid": 15
+ },
+ "BANCO-004/9": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-005/1": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-005/10": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-005/11": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-005/12": {
+  "absent": [
+   "minimax/minimax-m3"
+  ],
+  "degenerate": [],
+  "n_present": 15,
+  "n_valid": 15
+ },
+ "BANCO-005/13": {
+  "absent": [
+   "minimax/minimax-m3"
+  ],
+  "degenerate": [],
+  "n_present": 15,
+  "n_valid": 15
+ },
+ "BANCO-005/14": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-005/15": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-005/16": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-005/17": {
+  "absent": [],
+  "degenerate": [
+   "google/gemini-2.5-flash"
+  ],
+  "n_present": 16,
+  "n_valid": 15
+ },
+ "BANCO-005/18": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-005/19": {
+  "absent": [
+   "minimax/minimax-m3"
+  ],
+  "degenerate": [],
+  "n_present": 15,
+  "n_valid": 15
+ },
+ "BANCO-005/2": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-005/20": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-005/21": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-005/22": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-005/23": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-005/24": {
+  "absent": [
+   "minimax/minimax-m3"
+  ],
+  "degenerate": [],
+  "n_present": 15,
+  "n_valid": 15
+ },
+ "BANCO-005/25": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-005/26": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-005/27": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-005/28": {
+  "absent": [
+   "minimax/minimax-m3"
+  ],
+  "degenerate": [
+   "deepseek/deepseek-v4-flash"
+  ],
+  "n_present": 15,
+  "n_valid": 14
+ },
+ "BANCO-005/29": {
+  "absent": [
+   "minimax/minimax-m3"
+  ],
+  "degenerate": [],
+  "n_present": 15,
+  "n_valid": 15
+ },
+ "BANCO-005/3": {
+  "absent": [
+   "minimax/minimax-m3"
+  ],
+  "degenerate": [],
+  "n_present": 15,
+  "n_valid": 15
+ },
+ "BANCO-005/30": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-005/4": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-005/5": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-005/6": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-005/7": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-005/8": {
+  "absent": [
+   "minimax/minimax-m3"
+  ],
+  "degenerate": [],
+  "n_present": 15,
+  "n_valid": 15
+ },
+ "BANCO-005/9": {
+  "absent": [
+   "minimax/minimax-m3"
+  ],
+  "degenerate": [],
+  "n_present": 15,
+  "n_valid": 15
+ },
+ "BANCO-006/1": {
+  "absent": [
+   "minimax/minimax-m3"
+  ],
+  "degenerate": [],
+  "n_present": 15,
+  "n_valid": 15
+ },
+ "BANCO-006/10": {
+  "absent": [
+   "minimax/minimax-m3"
+  ],
+  "degenerate": [],
+  "n_present": 15,
+  "n_valid": 15
+ },
+ "BANCO-006/11": {
+  "absent": [
+   "minimax/minimax-m3"
+  ],
+  "degenerate": [],
+  "n_present": 15,
+  "n_valid": 15
+ },
+ "BANCO-006/12": {
+  "absent": [],
+  "degenerate": [
+   "minimax/minimax-m3"
+  ],
+  "n_present": 16,
+  "n_valid": 15
+ },
+ "BANCO-006/13": {
+  "absent": [
+   "minimax/minimax-m3"
+  ],
+  "degenerate": [],
+  "n_present": 15,
+  "n_valid": 15
+ },
+ "BANCO-006/14": {
+  "absent": [
+   "minimax/minimax-m3"
+  ],
+  "degenerate": [],
+  "n_present": 15,
+  "n_valid": 15
+ },
+ "BANCO-006/15": {
+  "absent": [
+   "minimax/minimax-m3"
+  ],
+  "degenerate": [],
+  "n_present": 15,
+  "n_valid": 15
+ },
+ "BANCO-006/16": {
+  "absent": [],
+  "degenerate": [
+   "minimax/minimax-m3"
+  ],
+  "n_present": 16,
+  "n_valid": 15
+ },
+ "BANCO-006/17": {
+  "absent": [
+   "minimax/minimax-m3"
+  ],
+  "degenerate": [],
+  "n_present": 15,
+  "n_valid": 15
+ },
+ "BANCO-006/18": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-006/19": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-006/2": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-006/20": {
+  "absent": [
+   "minimax/minimax-m3"
+  ],
+  "degenerate": [],
+  "n_present": 15,
+  "n_valid": 15
+ },
+ "BANCO-006/21": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-006/22": {
+  "absent": [
+   "minimax/minimax-m3"
+  ],
+  "degenerate": [],
+  "n_present": 15,
+  "n_valid": 15
+ },
+ "BANCO-006/23": {
+  "absent": [],
+  "degenerate": [
+   "minimax/minimax-m3"
+  ],
+  "n_present": 16,
+  "n_valid": 15
+ },
+ "BANCO-006/24": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-006/25": {
+  "absent": [
+   "minimax/minimax-m3"
+  ],
+  "degenerate": [],
+  "n_present": 15,
+  "n_valid": 15
+ },
+ "BANCO-006/26": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-006/27": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-006/28": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-006/29": {
+  "absent": [
+   "minimax/minimax-m3"
+  ],
+  "degenerate": [],
+  "n_present": 15,
+  "n_valid": 15
+ },
+ "BANCO-006/3": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-006/30": {
+  "absent": [
+   "minimax/minimax-m3"
+  ],
+  "degenerate": [],
+  "n_present": 15,
+  "n_valid": 15
+ },
+ "BANCO-006/4": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-006/5": {
+  "absent": [
+   "minimax/minimax-m3"
+  ],
+  "degenerate": [],
+  "n_present": 15,
+  "n_valid": 15
+ },
+ "BANCO-006/6": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-006/7": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-006/8": {
+  "absent": [],
+  "degenerate": [
+   "deepseek/deepseek-v4-flash"
+  ],
+  "n_present": 16,
+  "n_valid": 15
+ },
+ "BANCO-006/9": {
+  "absent": [
+   "minimax/minimax-m3"
+  ],
+  "degenerate": [
+   "deepseek/deepseek-v4-flash"
+  ],
+  "n_present": 15,
+  "n_valid": 14
+ },
+ "BANCO-007/1": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-007/10": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-007/11": {
+  "absent": [
+   "minimax/minimax-m3"
+  ],
+  "degenerate": [],
+  "n_present": 15,
+  "n_valid": 15
+ },
+ "BANCO-007/12": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-007/13": {
+  "absent": [],
+  "degenerate": [
+   "minimax/minimax-m3"
+  ],
+  "n_present": 16,
+  "n_valid": 15
+ },
+ "BANCO-007/14": {
+  "absent": [
+   "minimax/minimax-m3"
+  ],
+  "degenerate": [],
+  "n_present": 15,
+  "n_valid": 15
+ },
+ "BANCO-007/15": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-007/16": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-007/17": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-007/18": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-007/19": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-007/2": {
+  "absent": [
+   "minimax/minimax-m3"
+  ],
+  "degenerate": [],
+  "n_present": 15,
+  "n_valid": 15
+ },
+ "BANCO-007/20": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-007/21": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-007/22": {
+  "absent": [],
+  "degenerate": [
+   "minimax/minimax-m3"
+  ],
+  "n_present": 16,
+  "n_valid": 15
+ },
+ "BANCO-007/23": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-007/24": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-007/25": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-007/26": {
+  "absent": [
+   "minimax/minimax-m3"
+  ],
+  "degenerate": [],
+  "n_present": 15,
+  "n_valid": 15
+ },
+ "BANCO-007/27": {
+  "absent": [
+   "minimax/minimax-m3"
+  ],
+  "degenerate": [],
+  "n_present": 15,
+  "n_valid": 15
+ },
+ "BANCO-007/28": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-007/29": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-007/3": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-007/30": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-007/4": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-007/5": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-007/6": {
+  "absent": [
+   "minimax/minimax-m3"
+  ],
+  "degenerate": [],
+  "n_present": 15,
+  "n_valid": 15
+ },
+ "BANCO-007/7": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-007/8": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-007/9": {
+  "absent": [
+   "minimax/minimax-m3"
+  ],
+  "degenerate": [],
+  "n_present": 15,
+  "n_valid": 15
+ },
+ "BANCO-008/1": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-008/10": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-008/11": {
+  "absent": [],
+  "degenerate": [
+   "meta-llama/llama-3.3-70b-instruct"
+  ],
+  "n_present": 16,
+  "n_valid": 15
+ },
+ "BANCO-008/12": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-008/13": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-008/14": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-008/15": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-008/16": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-008/17": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-008/18": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-008/19": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-008/2": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-008/20": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-008/21": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-008/22": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-008/23": {
+  "absent": [
+   "z-ai/glm-5.2"
+  ],
+  "degenerate": [
+   "meta-llama/llama-3.3-70b-instruct"
+  ],
+  "n_present": 15,
+  "n_valid": 14
+ },
+ "BANCO-008/24": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-008/25": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-008/26": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-008/27": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-008/28": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-008/29": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-008/3": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-008/30": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-008/4": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-008/5": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-008/6": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-008/7": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-008/8": {
+  "absent": [],
+  "degenerate": [
+   "meta-llama/llama-3.3-70b-instruct"
+  ],
+  "n_present": 16,
+  "n_valid": 15
+ },
+ "BANCO-008/9": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-009/1": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-009/10": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-009/11": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-009/12": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-009/13": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-009/14": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-009/15": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-009/16": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-009/17": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-009/18": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-009/19": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-009/2": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-009/20": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-009/21": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-009/22": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-009/23": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-009/24": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-009/25": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-009/26": {
+  "absent": [],
+  "degenerate": [
+   "google/gemini-2.5-flash"
+  ],
+  "n_present": 16,
+  "n_valid": 15
+ },
+ "BANCO-009/27": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-009/28": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-009/29": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-009/3": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-009/30": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-009/4": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-009/5": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-009/6": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-009/7": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-009/8": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-009/9": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-010/1": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-010/10": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-010/11": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-010/12": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-010/13": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-010/14": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-010/15": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-010/16": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-010/17": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-010/18": {
+  "absent": [],
+  "degenerate": [
+   "google/gemini-2.5-flash"
+  ],
+  "n_present": 16,
+  "n_valid": 15
+ },
+ "BANCO-010/19": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-010/2": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-010/20": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-010/21": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-010/22": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-010/23": {
+  "absent": [],
+  "degenerate": [
+   "google/gemini-2.5-flash",
+   "x-ai/grok-4.3"
+  ],
+  "n_present": 16,
+  "n_valid": 14
+ },
+ "BANCO-010/24": {
+  "absent": [
+   "minimax/minimax-m3"
+  ],
+  "degenerate": [],
+  "n_present": 15,
+  "n_valid": 15
+ },
+ "BANCO-010/25": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-010/26": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-010/27": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-010/28": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-010/29": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-010/3": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-010/30": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-010/4": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-010/5": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-010/6": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-010/7": {
+  "absent": [
+   "z-ai/glm-5.2"
+  ],
+  "degenerate": [],
+  "n_present": 15,
+  "n_valid": 15
+ },
+ "BANCO-010/8": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-010/9": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-011/1": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-011/10": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-011/11": {
+  "absent": [],
+  "degenerate": [
+   "google/gemini-2.5-flash"
+  ],
+  "n_present": 16,
+  "n_valid": 15
+ },
+ "BANCO-011/12": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-011/13": {
+  "absent": [],
+  "degenerate": [
+   "google/gemini-2.5-flash"
+  ],
+  "n_present": 16,
+  "n_valid": 15
+ },
+ "BANCO-011/14": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-011/15": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-011/16": {
+  "absent": [],
+  "degenerate": [
+   "google/gemini-2.5-flash"
+  ],
+  "n_present": 16,
+  "n_valid": 15
+ },
+ "BANCO-011/17": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-011/18": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-011/19": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-011/2": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-011/20": {
+  "absent": [],
+  "degenerate": [
+   "google/gemini-2.5-flash"
+  ],
+  "n_present": 16,
+  "n_valid": 15
+ },
+ "BANCO-011/21": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-011/22": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-011/23": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-011/24": {
+  "absent": [],
+  "degenerate": [
+   "google/gemini-2.5-flash"
+  ],
+  "n_present": 16,
+  "n_valid": 15
+ },
+ "BANCO-011/25": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-011/26": {
+  "absent": [],
+  "degenerate": [
+   "deepseek/deepseek-v4-flash"
+  ],
+  "n_present": 16,
+  "n_valid": 15
+ },
+ "BANCO-011/27": {
+  "absent": [],
+  "degenerate": [
+   "google/gemini-2.5-flash"
+  ],
+  "n_present": 16,
+  "n_valid": 15
+ },
+ "BANCO-011/28": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-011/29": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-011/3": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-011/30": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-011/4": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-011/5": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-011/6": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-011/7": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-011/8": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-011/9": {
+  "absent": [],
+  "degenerate": [
+   "google/gemini-2.5-flash"
+  ],
+  "n_present": 16,
+  "n_valid": 15
+ },
+ "BANCO-012/1": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-012/10": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-012/11": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-012/12": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-012/13": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-012/14": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-012/15": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-012/16": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-012/17": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-012/18": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-012/19": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-012/2": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-012/20": {
+  "absent": [],
+  "degenerate": [
+   "google/gemini-2.5-flash"
+  ],
+  "n_present": 16,
+  "n_valid": 15
+ },
+ "BANCO-012/21": {
+  "absent": [],
+  "degenerate": [
+   "google/gemini-2.5-flash"
+  ],
+  "n_present": 16,
+  "n_valid": 15
+ },
+ "BANCO-012/22": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-012/23": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-012/24": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-012/25": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-012/26": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-012/27": {
+  "absent": [],
+  "degenerate": [
+   "google/gemini-2.5-flash"
+  ],
+  "n_present": 16,
+  "n_valid": 15
+ },
+ "BANCO-012/28": {
+  "absent": [],
+  "degenerate": [
+   "google/gemini-2.5-flash"
+  ],
+  "n_present": 16,
+  "n_valid": 15
+ },
+ "BANCO-012/29": {
+  "absent": [],
+  "degenerate": [
+   "meta-llama/llama-3.3-70b-instruct",
+   "deepseek/deepseek-v4-flash"
+  ],
+  "n_present": 16,
+  "n_valid": 14
+ },
+ "BANCO-012/3": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-012/30": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-012/4": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-012/5": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-012/6": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-012/7": {
+  "absent": [],
+  "degenerate": [
+   "google/gemini-2.5-flash"
+  ],
+  "n_present": 16,
+  "n_valid": 15
+ },
+ "BANCO-012/8": {
+  "absent": [],
+  "degenerate": [
+   "google/gemini-2.5-flash"
+  ],
+  "n_present": 16,
+  "n_valid": 15
+ },
+ "BANCO-012/9": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-013/1": {
+  "absent": [],
+  "degenerate": [
+   "google/gemini-2.5-flash"
+  ],
+  "n_present": 16,
+  "n_valid": 15
+ },
+ "BANCO-013/10": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-013/11": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-013/12": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-013/13": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-013/14": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-013/15": {
+  "absent": [],
+  "degenerate": [
+   "google/gemini-2.5-flash"
+  ],
+  "n_present": 16,
+  "n_valid": 15
+ },
+ "BANCO-013/16": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-013/17": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-013/18": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-013/19": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-013/2": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-013/20": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-013/21": {
+  "absent": [],
+  "degenerate": [
+   "google/gemini-2.5-flash"
+  ],
+  "n_present": 16,
+  "n_valid": 15
+ },
+ "BANCO-013/22": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-013/23": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-013/24": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-013/25": {
+  "absent": [],
+  "degenerate": [
+   "google/gemini-2.5-flash"
+  ],
+  "n_present": 16,
+  "n_valid": 15
+ },
+ "BANCO-013/26": {
+  "absent": [],
+  "degenerate": [
+   "google/gemini-2.5-flash"
+  ],
+  "n_present": 16,
+  "n_valid": 15
+ },
+ "BANCO-013/27": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-013/28": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-013/29": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-013/3": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-013/30": {
+  "absent": [],
+  "degenerate": [
+   "google/gemma-4-31b-it"
+  ],
+  "n_present": 16,
+  "n_valid": 15
+ },
+ "BANCO-013/4": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-013/5": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-013/6": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-013/7": {
+  "absent": [],
+  "degenerate": [
+   "google/gemini-2.5-flash"
+  ],
+  "n_present": 16,
+  "n_valid": 15
+ },
+ "BANCO-013/8": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-013/9": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-014/1": {
+  "absent": [],
+  "degenerate": [
+   "google/gemini-2.5-flash"
+  ],
+  "n_present": 16,
+  "n_valid": 15
+ },
+ "BANCO-014/10": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-014/11": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-014/12": {
+  "absent": [],
+  "degenerate": [
+   "google/gemini-2.5-flash"
+  ],
+  "n_present": 16,
+  "n_valid": 15
+ },
+ "BANCO-014/13": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-014/14": {
+  "absent": [],
+  "degenerate": [
+   "meta-llama/llama-3.3-70b-instruct"
+  ],
+  "n_present": 16,
+  "n_valid": 15
+ },
+ "BANCO-014/15": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-014/16": {
+  "absent": [],
+  "degenerate": [
+   "minimax/minimax-m3"
+  ],
+  "n_present": 16,
+  "n_valid": 15
+ },
+ "BANCO-014/17": {
+  "absent": [],
+  "degenerate": [
+   "google/gemini-2.5-flash"
+  ],
+  "n_present": 16,
+  "n_valid": 15
+ },
+ "BANCO-014/18": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-014/19": {
+  "absent": [],
+  "degenerate": [
+   "meta-llama/llama-3.3-70b-instruct"
+  ],
+  "n_present": 16,
+  "n_valid": 15
+ },
+ "BANCO-014/2": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-014/20": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-014/21": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-014/22": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-014/23": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-014/24": {
+  "absent": [],
+  "degenerate": [
+   "google/gemini-2.5-flash"
+  ],
+  "n_present": 16,
+  "n_valid": 15
+ },
+ "BANCO-014/25": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-014/26": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-014/27": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-014/28": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-014/29": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-014/3": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-014/30": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-014/4": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-014/5": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-014/6": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-014/7": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-014/8": {
+  "absent": [],
+  "degenerate": [
+   "google/gemini-2.5-flash"
+  ],
+  "n_present": 16,
+  "n_valid": 15
+ },
+ "BANCO-014/9": {
+  "absent": [],
+  "degenerate": [
+   "google/gemini-2.5-flash"
+  ],
+  "n_present": 16,
+  "n_valid": 15
+ },
+ "BANCO-015/1": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-015/10": {
+  "absent": [],
+  "degenerate": [
+   "google/gemini-2.5-flash"
+  ],
+  "n_present": 16,
+  "n_valid": 15
+ },
+ "BANCO-015/11": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-015/12": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-015/13": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-015/14": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-015/15": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-015/16": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-015/17": {
+  "absent": [],
+  "degenerate": [
+   "google/gemini-2.5-flash"
+  ],
+  "n_present": 16,
+  "n_valid": 15
+ },
+ "BANCO-015/18": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-015/19": {
+  "absent": [],
+  "degenerate": [
+   "google/gemini-2.5-flash"
+  ],
+  "n_present": 16,
+  "n_valid": 15
+ },
+ "BANCO-015/2": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-015/20": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-015/21": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-015/22": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-015/23": {
+  "absent": [],
+  "degenerate": [
+   "google/gemini-2.5-flash"
+  ],
+  "n_present": 16,
+  "n_valid": 15
+ },
+ "BANCO-015/24": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-015/25": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-015/26": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-015/27": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-015/28": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-015/29": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-015/3": {
+  "absent": [
+   "minimax/minimax-m3"
+  ],
+  "degenerate": [
+   "meta-llama/llama-3.3-70b-instruct"
+  ],
+  "n_present": 15,
+  "n_valid": 14
+ },
+ "BANCO-015/30": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-015/4": {
+  "absent": [],
+  "degenerate": [
+   "meta-llama/llama-3.3-70b-instruct"
+  ],
+  "n_present": 16,
+  "n_valid": 15
+ },
+ "BANCO-015/5": {
+  "absent": [],
+  "degenerate": [
+   "google/gemini-2.5-flash"
+  ],
+  "n_present": 16,
+  "n_valid": 15
+ },
+ "BANCO-015/6": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-015/7": {
+  "absent": [],
+  "degenerate": [
+   "google/gemini-2.5-flash"
+  ],
+  "n_present": 16,
+  "n_valid": 15
+ },
+ "BANCO-015/8": {
+  "absent": [],
+  "degenerate": [],
+  "n_present": 16,
+  "n_valid": 16
+ },
+ "BANCO-015/9": {
+  "absent": [],
+  "degenerate": [
+   "google/gemini-2.5-flash"
+  ],
+  "n_present": 16,
+  "n_valid": 15
+ }
+}

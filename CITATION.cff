@@ -1,0 +1,54 @@
+cff-version: 1.2.0
+title: "llm-ensemble-effective-diversity: analysis code and data"
+message: "If you use this software or data, please cite it as below. The article it accompanies is in preparation; please also cite the preregistration."
+type: software
+authors:
+  - family-names: "Vega-Barbas"
+    given-names: "Mario"
+    affiliation: "ETSIS de Telecomunicación, Universidad Politécnica de Madrid, Madrid, Spain"
+  - family-names: "Mora-Valenciano"
+    given-names: "Lidia"
+    affiliation: "Independent Researcher, Guadalajara, Spain"
+  - family-names: "Pau"
+    given-names: "Iván"
+    affiliation: "ETSIS de Telecomunicación, Universidad Politécnica de Madrid, Madrid, Spain"
+  - family-names: "Seoane"
+    given-names: "Fernando"
+    affiliation: "Department of Clinical Science, Intervention and Technology, Karolinska Institutet, Huddinge, Sweden"
+  - family-names: "Abtahi"
+    given-names: "Farhad"
+    affiliation: "Department of Clinical Science, Intervention and Technology, Karolinska Institutet, Huddinge, Sweden"
+license: Apache-2.0
+license-url: "https://www.apache.org/licenses/LICENSE-2.0"
+keywords:
+  - large language models
+  - ensemble diversity
+  - Vendi Score
+  - psychotherapy case formulation
+  - effective number of voices
+abstract: >-
+  Analysis code and data for a study of the effective diversity of a
+  sixteen-model language model ensemble on psychotherapeutic case formulation.
+  The effective number of voices is the Vendi Score, computed with the reference
+  implementation rather than reimplemented; the per-voice dissent contribution is
+  original to the study. Includes the per-run indices, the per-model dissent
+  contributions and the 7,200 formulations obtained. The vignette bank is held in
+  a separate restricted deposit.
+references:
+  - type: article
+    title: "The Vendi Score: A Diversity Evaluation Metric for Machine Learning"
+    authors:
+      - family-names: "Friedman"
+        given-names: "Dan"
+      - family-names: "Dieng"
+        given-names: "Adji Bousso"
+    year: 2022
+    identifiers:
+      - type: other
+        value: "arXiv:2210.02410"
+    notes: "The measure this repository analyses with; its reference implementation is a dependency, not vendored."
+  - type: data
+    title: "Clinical vignette bank (restricted access)"
+    year: 2026
+    doi: "10.5281/zenodo.21708455"
+    notes: "Not included in this repository; available on reasoned request."
