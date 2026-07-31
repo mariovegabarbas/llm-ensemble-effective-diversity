@@ -92,11 +92,32 @@ def permutation_test(data: pd.DataFrame, n_permutations: int = N_PERMUTATIONS,
     }
 
 
+def total_sum_of_squares(data: pd.DataFrame) -> float:
+    """Corrected total sum of squares of the response, taken from the response.
+
+    Deliberately not the sum of the ANOVA table. Classical eta squared divides an
+    effect's sum of squares by the total sum of squares of the response; partial
+    eta squared divides it by that effect plus its own error (Levine and Hullett,
+    2002; Lakens, 2013). The two answer different questions and the table sum is
+    neither of them.
+
+    With type-II sums of squares the terms of the table do not add up to the total
+    once they are collinear: the variance they share is attributed to none of them
+    and leaves the table altogether. Dividing by the table sum therefore inflates
+    every ratio, and inflates it by an amount that grows with collinearity, so the
+    resulting figures are not comparable from one fitted model to the next. In this
+    dataset the table sums to 99.9% of the total for the two-factor model but to
+    only 90.4% once the framework covariate of framework_analysis.py is added.
+    """
+    y = data["d_i"].to_numpy(dtype=float)
+    return float(((y - y.mean()) ** 2).sum())
+
+
 def sensitivity_anova(data: pd.DataFrame) -> dict:
-    """Fixed-effects two-way ANOVA; reports eta squared and omega squared."""
+    """Fixed-effects two-way ANOVA; classical eta squared and omega squared."""
     fit = smf.ols("d_i ~ C(model) + C(vignette_id)", data=data).fit()
     table = anova_lm(fit, typ=2)
-    total = table["sum_sq"].sum()
+    total = total_sum_of_squares(data)
     ss_model = table.loc["C(model)", "sum_sq"]
     df_model = table.loc["C(model)", "df"]
     ms_resid = table.loc["Residual", "sum_sq"] / table.loc["Residual", "df"]

@@ -43,6 +43,11 @@ abstract: >-
   Attribution 4.0 for the published data and documentation (data/, docs/); see
   LICENSE and LICENSE-DATA in the repository. The vignette bank is not included
   and is held in a separate restricted deposit, doi 10.5281/zenodo.21708455.
+  Effect sizes for the fixed-effects analyses are classical eta squared, the sum
+  of squares of the effect over the total sum of squares of the response; v1.0.2
+  is the first version to compute them that way and earlier versions differ in
+  that denominator alone, not in any underlying analysis.
+  Preregistration: osf.io/c5qk7
 references:
   - type: article
     title: "The Vendi Score: A Diversity Evaluation Metric for Machine Learning"

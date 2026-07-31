@@ -2,7 +2,10 @@
 
 Analysis code and data for a study of how much distinct perspective an ensemble
 of language models actually produces on an interpretive clinical task, and of
-what structures that quantity.
+what structures that quantity. Dispersion over model outputs is measured both as
+diversity and as uncertainty, and both traditions validate it against a
+correctness criterion. Psychotherapeutic case formulation admits none, and what
+the quantity registers under that condition is what the study characterises.
 
 Sixteen language models from ten families each wrote a psychotherapeutic case
 formulation for fifteen stratified clinical vignettes, under counterbalanced

@@ -4,7 +4,7 @@
 
 ## Background
 
-The preregistered protocol for missing data specified that, when a model returned no usable formulation for a run, the call was to be retried up to four times, and if no usable formulation was obtained after the retries, the similarity matrix and the indices were to be computed from the voices that were available. The validity check actually implemented during execution verified only that the returned response was non-empty. In consequence, a response that was non-empty but degenerate (for example a stream of a single repeated character, a fragment truncated by a provider error, or text in the wrong language) passed the filter and was embedded and analysed as if it were a usable formulation, without triggering the retry rule.
+The protocol for missing data specified that, when a model returned no usable formulation for a run, the call was to be retried up to four times, and if no usable formulation was obtained after the retries, the similarity matrix and the indices were to be computed from the voices that were available. The validity check actually implemented during execution verified only that the returned response was non-empty. In consequence, a response that was non-empty but degenerate (for example a stream of a single repeated character, a fragment truncated by a provider error, or text in the wrong language) passed the filter and was embedded and analysed as if it were a usable formulation, without triggering the retry rule.
 
 This document freezes, after the fact, a mechanical operationalisation of "usable formulation". It defines eight criteria, each with an exact threshold, that together decide whether a formulation is degenerate. The criteria are applied uniformly to all seven thousand one hundred and sixty formulations that entered the analysis. They are stated here so that the classification can be reproduced exactly and so that no formulation is judged by anything other than these fixed rules. No index is recomputed and no data are regenerated as part of freezing these criteria; this document records the definition, and its application is reported separately.
 
@@ -43,3 +43,14 @@ The eight criteria above were fixed on 2026-07-28 and then applied to the seven 
 **The two formulations in which the character set changed part way through generation are counted as degenerate.** In both, minimax-m3 injected non-Latin characters mid-formulation, and the language detector classifies the complete text as outside Spanish; they are retained as failures of criterion 4.
 
 This revision was made before any data were regenerated and before any index was recomputed.
+
+## Correction, 2026-07-31
+
+The opening sentence of the Background section described the missing-data protocol as
+preregistered. It is not: the sealed registration contains no missing-data rule, and the
+retry-and-recompute protocol comes from the project's design documents, where it is fixed
+as part of the execution procedure and was adopted before any data were generated. The
+qualifier has been removed from that sentence. Nothing else in this document changes, and
+no criterion, threshold or classification is affected: the protocol described is the one
+that was followed, and only the claim about where it was registered was wrong.
+`deviations_from_preregistration.md` records its provenance in full.
